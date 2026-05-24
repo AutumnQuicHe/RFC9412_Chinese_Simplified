@@ -1,5 +1,5 @@
 ---
-title: "RFC9412中文：HTTP/3 ORIGIN扩展"
+title: "RFC9412中文：HTTP/3之ORIGIN扩展"
 anchor: "RFC9412"
 weight: 400
 rank: "sub_page"

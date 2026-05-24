@@ -1,7 +1,8 @@
 ---
-title: "RFC9412 HTTP/3的ORIGIN扩展字段"
-anchor: "RFC9412_QUIC"
+title: "RFC9412 HTTP/3之ORIGIN扩展"
+anchor: "RFC9412_ORIGIN_HTTP3"
 weight: 1
+rank: "h1"
 ---
 
 <br>
@@ -26,7 +27,7 @@ weight: 1
   <tr>
     <td>RFC编号：</td>
     <td colspan="2">
-      <a href="https://www.rfc-editor.org/rfc/rfc9412">9412</a>
+      <a href="https://www.rfc-editor.org/info/rfc9412">9412</a>
     </td>
   </tr>
   <tr>
@@ -35,7 +36,7 @@ weight: 1
   </tr>
   <tr>
     <td>出版时间：</td>
-    <td colspan="2">2023年6月</td>
+    <td colspan="2">2023年3月</td>
   </tr>
   <tr>
     <td>国际标准期刊编号：</td>
@@ -43,7 +44,8 @@ weight: 1
   </tr>
   <tr>
     <td>作者：</td>
-    <td colspan="2">M. Bishop <br><i>Akamai</i></td>
+    <td>M. Bishop <br><i>Akamai</i></td>
+    <td></td>
   </tr>
 </table>
  
