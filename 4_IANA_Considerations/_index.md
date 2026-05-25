@@ -5,7 +5,7 @@ weight: 400000
 rank: "h1"
 ---
 
-本文在[HTTP/3]定义的“HTTP/3 Frame Types”注册表中注册一种帧类型，该注册表位于<[https://www.iana.org/assignments/http3-parameters/](https://www.iana.org/assignments/http3-parameters/)>。
+本文在[HTTP/3](#HTTP3)定义的“HTTP/3 Frame Types”注册表中注册一种帧类型，该注册表位于<[https://www.iana.org/assignments/http3-parameters/](https://www.iana.org/assignments/http3-parameters/)>。
 
 值：
 : `0x0c`
